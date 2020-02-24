@@ -29,7 +29,7 @@ namespace SaraAsefiAssignment2
             }
             else
             {
-                result = "Not a triangle";
+                result = "Not a triangle!";
             }
             return result;
         }
