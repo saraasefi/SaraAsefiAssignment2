@@ -10,6 +10,9 @@ namespace SaraAsefiAssignment2
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine(TriangleSolver.Analyze(1, 4, 5));
+            Console.ReadKey();
         }
     }
 }

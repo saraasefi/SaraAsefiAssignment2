@@ -1,0 +1,7 @@
+E:\Sara College\Level-4\Quality\Assignment2\SaraAsefiAssignment2\SaraAsefiAssignment2\bin\Debug\SaraAsefiAssignment2.exe.config
+E:\Sara College\Level-4\Quality\Assignment2\SaraAsefiAssignment2\SaraAsefiAssignment2\bin\Debug\SaraAsefiAssignment2.exe
+E:\Sara College\Level-4\Quality\Assignment2\SaraAsefiAssignment2\SaraAsefiAssignment2\bin\Debug\SaraAsefiAssignment2.pdb
+E:\Sara College\Level-4\Quality\Assignment2\SaraAsefiAssignment2\SaraAsefiAssignment2\obj\Debug\SaraAsefiAssignment2.csprojAssemblyReference.cache
+E:\Sara College\Level-4\Quality\Assignment2\SaraAsefiAssignment2\SaraAsefiAssignment2\obj\Debug\SaraAsefiAssignment2.csproj.CoreCompileInputs.cache
+E:\Sara College\Level-4\Quality\Assignment2\SaraAsefiAssignment2\SaraAsefiAssignment2\obj\Debug\SaraAsefiAssignment2.exe
+E:\Sara College\Level-4\Quality\Assignment2\SaraAsefiAssignment2\SaraAsefiAssignment2\obj\Debug\SaraAsefiAssignment2.pdb
